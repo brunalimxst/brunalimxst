@@ -7,7 +7,7 @@
 
 - 🔭 &nbsp; Atualmente estudo Desenvolvimento Web e Mobile no **Instituto Benjamin Constant**;
 - 🌱 &nbsp; Estou aprendendo tecnologias Front-End (HTML5, CSS3, JavaScript, React);
-- 📚 &nbsp; Estou no bootcamp da Laborat;
+- 📚 &nbsp; Estou no bootcamp da Laboratória(Desenvolvimento Front-End); 
 
 
 <div align="center">
