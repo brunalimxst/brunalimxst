@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruna+Lima+:%29;Desenvolvedora+Front-End;Seja+bem-vindx!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruna+Lima+:%29;Developer+Jr;Seja+bem-vindx!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunalimxst&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=B0C4DE&text_color=ADD8E6&bg_color=0d1117" alt="Bruna Lima github stats" /> 
